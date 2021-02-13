@@ -1,0 +1,2 @@
+# Pot
+ layout não responsivo
